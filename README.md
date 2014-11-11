@@ -32,4 +32,4 @@ TransfromTwo
 `background: -webkit-linear-gradient(left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.7));
 `
 
-[© Bibimap 2014](http://www.baidu.com)
+[© Bibimap 2014]()
