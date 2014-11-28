@@ -23,8 +23,14 @@ TransfromOne
 
 	stackBlurCanvasRGB( targetCanvasID, top_x, top_y, width, height, radius ); //用于对Canvas矩形区域执行RGB模糊，不考虑Alpha值
 
-**[Jsfiddle Demo](http://jsfiddle.net/nwellcome/27QUM/)**
 
+Demo
+=========
+图片模糊过渡效果[demo](http://myimages.oschina.mopaas.com)
+
+图片变暗过渡效果[demo](http://myimages.oschina.mopaas.com/index2.html)
+
+**[Jsfiddle Demo](http://jsfiddle.net/nwellcome/27QUM/)**
 TransfromTwo
 =========
 使用简单的过渡效果加上Background实现类似Medium的效果
